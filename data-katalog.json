@@ -1,0 +1,60 @@
+{
+    "namapertama" : {
+        "id": 1,
+        "namaLengkap": "Contoh Nama Panjang",
+        "judul": "judulpertama",
+        "tahun": 2023,
+        "jenis": "misal3d",
+        "alat": ["paku", "palu"],
+        "media": "papan cet",
+        "teknik": ["cat", "potong"],
+        "deskripsi": ["paragraf pertama misalnya", "terus ini paragraf kedua nya", "dan ini paragraf yang ketiga ygy"],
+        "usernameIg": "nizar_euy"
+    },
+    "namakedua" : {
+        "id": 2,
+        "namaLengkap": "Contoh Nama Panjang",
+        "judul": "judulkedua",
+        "tahun": 2023,
+        "jenis": "misal2d",
+        "alat": ["paku", "palu"],
+        "media": "batu kali",
+        "teknik": ["cat", "potong"],
+        "deskripsi": ["paragraf pertama misalnya", "terus ini paragraf kedua nya", "dan ini paragraf yang ketiga ygy"],
+        "usernameIg": "nizar_euy"
+    },
+    "galuh" : {
+        "id": 1,
+        "namaLengkap": "Galuh Cikal Ramadhan",
+        "judul": "Rumah",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["Gunting", "Cutter", "lem"],
+        "media": "Stik es krim",
+        "teknik": ["Memotong", "Menempel"],
+        "deskripsi": ["Rumah adalah tempat yang akan menerima kita apa adanya. Tempat yang akan membuat Anda hangat dan nyaman di hari-hari ketika Anda merasa tersesat dan berlinang air mata. Tempat yang damai dan nyaman untuk Anda berteduh bagi orang-orang terdekat dan tersayang."],
+        "usernameIg": "galuhcikal_12",
+        "imgKarya": {
+            "namaFile": "galuh 01",
+            "isTransparent": true,
+            "imbuhanNama": [null, 2, 3, 4, 5]
+        }
+    },
+    "" : {
+        "id": null,
+        "namaLengkap": "",
+        "judul": "",
+        "tahun": "",
+        "jenis": "",
+        "alat": [],
+        "media": "",
+        "teknik": [],
+        "deskripsi": [],
+        "usernameIg": "",
+        "imgKarya": {
+            "namaFile": "",
+            "isTransparent": null,
+            "imbuhanNama": []
+        }
+    }
+}
