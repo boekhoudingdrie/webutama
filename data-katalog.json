@@ -1,0 +1,621 @@
+{
+    "namapertama" : {
+        "id": 1,
+        "namaLengkap": "Contoh Nama Panjang",
+        "judul": "judulpertama",
+        "tahun": 2023,
+        "jenis": "misal3d",
+        "alat": ["paku", "palu"],
+        "media": "papan cet",
+        "teknik": ["cat", "potong"],
+        "deskripsi": ["paragraf pertama misalnya", "terus ini paragraf kedua nya", "dan ini paragraf yang ketiga ygy"],
+        "usernameIg": "nizar_euy"
+    },
+    "namakedua" : {
+        "id": 2,
+        "namaLengkap": "Contoh Nama Panjang",
+        "judul": "judulkedua",
+        "tahun": 2023,
+        "jenis": "misal2d",
+        "alat": ["paku", "palu"],
+        "media": "batu kali",
+        "teknik": ["cat", "potong"],
+        "deskripsi": ["paragraf pertama misalnya", "terus ini paragraf kedua nya", "dan ini paragraf yang ketiga ygy"],
+        "usernameIg": "nizar_euy"
+    },
+    "galuh" : {
+        "id": 1,
+        "namaLengkap": "Galuh Cikal Ramadhan",
+        "judul": "Rumah",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["Gunting", "Cutter", "lem"],
+        "media": "Stik es krim",
+        "teknik": ["Memotong", "Menempel"],
+        "deskripsi": ["Rumah adalah tempat yang akan menerima kita apa adanya. Tempat yang akan membuat Anda hangat dan nyaman di hari-hari ketika Anda merasa tersesat dan berlinang air mata. Tempat yang damai dan nyaman untuk Anda berteduh bagi orang-orang terdekat dan tersayang."],
+        "usernameIg": "galuhcikal_12",
+        "imgKarya": {
+            "namaFile": "galuh 01",
+            "isTransparent": true,
+            "imbuhanNama": [null, 2, 3, 4, 5]
+        }
+    },
+    "dwi" : {
+        "id": 2,
+        "namaLengkap": "Dwi Astuti",
+        "judul": "SEA",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["Cat", "Kuas", "Palet"],
+        "media": "Canvas",
+        "teknik": ["Melukis"],
+        "deskripsi": ["Seni lukis adalah salah satu cabang dari seni rupa yang berfokus pada kegiatan melukis. Dengan dasar pengertian yang sama, seni lukis adalah sebuah pengembangan yang lebih utuh dari menggambar. Melukis adalah kegiatan mengolah medium dua dimensi atau permukaan dari objek tiga dimensi untuk mendapat kesan tertentu. Kita sebagai manusia pasti mempunyai perasaan yang berbeda setiap harinya, dengan itu kita bisa mengekspresikan perasaan kita dengan cara melukis. Apa yang kamu rasakan, apa yang kamu pikirkan kamu bisa melukisnya. Dengan melukis kamu bisa merasakan ketenangan, kedamaian yang selama ini kamu cari."],
+        "usernameIg": "dww.i_",
+        "imgKarya": {
+            "namaFile": "dwi 02",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "serly" : {
+        "id": 3,
+        "namaLengkap": "Serly Nur Fitri",
+        "judul": "Rumah Adat Jaawa",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["Gunting", "Cutter", "lem"],
+        "media": "Stik es krim",
+        "teknik": ["Memotong", "Menempel"],
+        "deskripsi": ["Rumah Adat Jawaadalah rumah tradisional dari Jawa yang kepopulerannya terdengar sampai mancanegara. Itu karena desainnya identik dengan nilai warisan nenek moyang sehingga fungsi pembuatannya ada banyak. Tidak hanya dijadikan tempat tinggal saja. Namun juga memiliki banyak filosofi lainnya."],
+        "usernameIg": "xsrly28_",
+        "imgKarya": {
+            "namaFile": "serly 03",
+            "isTransparent": true,
+            "imbuhanNama": [null, 2, 3, 4, 5]
+        }
+    },
+    "tia" : {
+        "id": 4,
+        "namaLengkap": "Tia putri Oktaviani",
+        "judul": "",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["Tissu", "Kanvas", "Cat", "Air", "Air"],
+        "media": "Tissue",
+        "teknik": ["Menempel (Mozaik)"],
+        "deskripsi": ["Mozaik merupakan karya seni yang berasal dari potongan-potongan kecil dan dikumpulkan menjadi satu.", "Konon, karya seni ini dikenalkan oleh bangsa Sumeria di Mesopotamia sekitar kurang lebih 4000 atau 5000 tahun yang lampau.", " Pada karya yang saya buat, saya menggunakan teknik mozaik dengan menempelkan potongan tissue yang sudah saya basahi menggunakan pinset pada permukaan kanvas.", "Jenis gambar yang saya gunakan untuk membuat seni mozaik yaitu gambar kaktus dilengkapi dengan pemandangan.", "Perpaduan warna yang saya pakai juga, sengaja saya kombinasikan dengan berbagai macam warna, berupa full color, agar seseorang yang melihat karya saya pun tidak bosan karena perpaduan warna yang menyalurkan ekspresi pandangan cerah dan ceria.", "Alasan saya membuat karya ini yaitu seni mozaik merupakan seni berupa teknik nya yang unik dan dapat meningkatkan kreativitas, serta sebagai media ekspresi yang digunakan untuk menyalurkan ekspresi atau berbagai emosi lainnya yang tidak sanggup dikeluarkan dalam bentuk lisan dan tulisan."],
+        "usernameIg": "tiaputrioktavia",
+        "imgKarya": {
+            "namaFile": "tia 04",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "linda" : {
+        "id": 5,
+        "namaLengkap": "Linda Elianti",
+        "judul": "R.A. KARTINI",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["Pensil", "Penghapus"],
+        "media": "Kertas Gambar",
+        "teknik": ["Teknik Arsir"],
+        "deskripsi": ["RA Kartini  merupakan tokoh emansipasi perempuan di Indonesia, nama lengkapnya yaitu Raden Adjeng  Kartini, ia merupakan keturunan priyayi Jawa, anak dari pasangan Raden Mas Adipati Ario Sosroningrat dan M.A. Ngasirah. Dia lahir di Jepara, pada 21 April  1879.", "Raden Ajeng Kartini sendiri adalah pahlawan yang mengambil tempat tersendiri di hati kita dengan segala cita-cita, tekad, dan perbuatannya. Ide-ide besarnya telah mampu menggerakkan dan mengilhami perjuangan kaumnya dari kebodohan yang tidak disadari pada masa lalu. Dengan keberanian dan pengorbanan yang tulus, dia mampu menggugah kaumnya dari belenggu diskriminasi.", "Habis Gelap Terbitlah Terang adalah buku kumpulan surat yang ditulis oleh R.A.Kartini . Kumpulan surat tersebut dibukukan oleh J.H. Abendanon dengan judul Door Duisternis Tot Licht. Setelah Kartini wafat, J.H. Abendanon mengumpulkan dan membukukan surat-surat yang pernah dikirimkan R.A Kartini pada teman-temannya di Eropa.", "Sesuai Keppres No. 108 Tahun 1964 pada 2 Mei 1964, Kartini resmi digelari pahlawan nasional oleh pemerintah Indonesia. Keppres ini juga menetapkan tanggal 21 April sebagai Hari Kartini, tanggal tersebut di ambil dari tanggal R.A.Kartini . Namanya kini diabadikan sebagai nama jalan. Tidak hanya di kota-kota di Indonesia saja, melainkan di kota-kota di Belanda. Seperti Kota Utrecht, Venlo, Amsterdam, dan Harleem. WR. Supratman bahkan membuatkan lagu berjudul Ibu Kita Kartini untuk mengenang jasa-jasanya."],
+        "usernameIg": "elantlind",
+        "imgKarya": {
+            "namaFile": "linda 05",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "juwina" : {
+        "id": 6,
+        "namaLengkap": "Juwina Puspa Dewi",
+        "judul": "Nirmana Trimatra",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["Gunting", "Cutter", "Lem tembak", "Plitur Kayu"],
+        "media": "stik eskrim dan Papan kayu",
+        "teknik": ["menempel", "Memotong"],
+        "deskripsi": ["Nirmana Trimatra adalah sebuah unsur rupa dan asas desain yang ditunjukan untuk karya yang membentuk ruang 3D (tiga dimensi) dengan pengorganisasian atau penyusunan elemen-elemen visual seperti titik, garis, warna, ruang dan tekstur menjadi satu kesatuan yang harmonis dan memiliki estetika bentuk yang indah."],
+        "usernameIg": "flywn87",
+        "imgKarya": {
+            "namaFile": "Juwina 06",
+            "isTransparent": true,
+            "imbuhanNama": [null, 2, 3, 4, 5]
+        }
+    },
+    "zahra" : {
+        "id": 7,
+        "namaLengkap": "Zahra Avrillia",
+        "judul": "Miniatur Rumah pedesaan",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["Gunting", "Cutter", "Lem tembak"],
+        "media": "Stik es krim",
+        "teknik": ["memotong", "menempel"],
+        "deskripsi": ["rumah pedesaan adalah tempat tinggal untuk  berlindung dan bernaung dari pengaruh keadaan alam sekitarnya yang secara fisik tidak mengandung unsur-unsur kemewahan, namun tidak juga mengenyampingkan keindahan atau estetika."],
+        "usernameIg": "chxzqra",
+        "imgKarya": {
+            "namaFile": "zahra 07",
+            "isTransparent": true,
+            "imbuhanNama": [null, 2, 3, 4, 5]
+        }
+    },
+    "ziza" : {
+        "id": 8,
+        "namaLengkap": "Ziza April Reviana",
+        "judul": "Memories in frames",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["kardus", "lem tembak", "gunting", "pensil", "kater", "penggaris"],
+        "media": "kardus",
+        "teknik": ["dibentuk/daur ulang"],
+        "deskripsi": ["Frame ini dapat menjadi sebuah tempat untuk menuangkan memori dengan menambahkan sebuah foto yg akan terus selalu bisa dikenang oleh pemiliknya, dapat dipandang jika ada suatu kerinduan, dapat dirasakan kembali memori yg telah terlupakan."],
+        "usernameIg": "zz4rvn",
+        "imgKarya": {
+            "namaFile": "Ziza 08",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "eva" : {
+        "id": 9,
+        "namaLengkap": "Eva Nurlita Ramadani",
+        "judul": "Dreaming girl",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["kuas", "cat"],
+        "media": "kanvas",
+        "teknik": ["melukis"],
+        "deskripsi": ["Dreaming girl adalah hasil seni lukis berupa tampilan yang memiliki nilai estetika."],
+        "usernameIg": "evvaaxz",
+        "imgKarya": {
+            "namaFile": "eva 09",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "ayu" : {
+        "id": 10,
+        "namaLengkap": "Ayu Miftahul Jannah",
+        "judul": "Mountain View",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["Kuas", "Cat", "Air"],
+        "media": "Kanvas",
+        "teknik": ["Melukis"],
+        "deskripsi": [" Lukisan naturalis ini secara umum menyimbolkan sebuah kehidupan, karena Sesuatu yang berhubungan dengan alam artinya hidup. Warna langit yang indah menandakan  kekuasaan Tuhan yang maha Kuasa yang patut di syukuri, kadang keindahan itu tak semua makhluk bisa menikmati dan mensyukurinya.", "Ini adalah pemandangan alam yang sangat indah. Gunung-gunung yang menjulang tinggi di tambah dengan langit biru yang menambah suasana nampak indah. Serta banyak bunga bunga yang menambah suasana sangat nyaman ketika berada di tempat tersebut."],
+        "usernameIg": "ayyyloylo",
+        "imgKarya": {
+            "namaFile": "ayu 10",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "cika" : {
+        "id": 11,
+        "namaLengkap": "Cika Rahmana",
+        "judul": "Bahaya Rokok",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["Pensil", "Spidol"],
+        "media": "Kertas konstruk(art paper)",
+        "teknik": ["Menggambar"],
+        "deskripsi": ["Gambar atau poster ini, seperti buku prosa, segelintir yang paham dan hanya orang orang tertentu yang tau maknanya."],
+        "usernameIg": "mp4.pdf",
+        "imgKarya": {
+            "namaFile": "Cika 11",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "yuli" : {
+        "id": 12,
+        "namaLengkap": "Yuli Agustina",
+        "judul": "Rumah Adat Sunda",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["Gunting", "Cutter", "lem"],
+        "media": "Stik es krim dan kardus",
+        "teknik": ["Memotong", "Menempel", "mengelem"],
+        "deskripsi": ["rumah adat adalah bangunan yang memiliki ciri khas khusus, digunakan untuk tempat hunian oleh suatu suku bangsa tertentu."],
+        "usernameIg": "mzyuliaa",
+        "imgKarya": {
+            "namaFile": "Yuli 12",
+            "isTransparent": true,
+            "imbuhanNama": [null, 2, 3]
+        }
+    },
+    "febry" : {
+        "id": 13,
+        "namaLengkap": "Febry Vebyana",
+        "judul": "Pemandangan Alam",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["Pensil", "Spidol"],
+        "media": "Kertas Gambar",
+        "teknik": ["Menggambar"],
+        "deskripsi": ["Kenikmatan hidup dapat kita rasakan apabila kita menyadari betapa warna-warni keindahan yang tercipta di dunia merupakan mahakarya dari penguasa alam."],
+        "usernameIg": "fvanaaa_",
+        "imgKarya": {
+            "namaFile": "Febry 13",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "aqila" : {
+        "id": 14,
+        "namaLengkap": "Aqila Isyfi",
+        "judul": "Pemandangan Alam",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["Cat", "Kuas", "Palet"],
+        "media": "Canvas",
+        "teknik": ["Melukis"],
+        "deskripsi": ["Lukisan ini menggambarkan tentang keindahan pemandangan gunung."],
+        "usernameIg": "aqilaisy._",
+        "imgKarya": {
+            "namaFile": "Aqila 14",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "nadya" : {
+        "id": 15,
+        "namaLengkap": "Nadya Frasischa",
+        "judul": "Bangunan Singgah",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["cat", "gunting", "cutter", "lem tembak"],
+        "media": "stik es krim dan sumpit",
+        "teknik": ["memotong", "menempel", "mengecat"],
+        "deskripsi": ["Bangunan sanggah adalah bangunan suci yang biasanya terletak di sebelah ujung timur laut dari rumah. Fungsi dari bangunan sanggah sebagai tempat sembahyang bagi keluarga besar yang biasa melakukan sembahyang umat hindu."],
+        "usernameIg": "ndyaxx_cc",
+        "imgKarya": {
+            "namaFile": "Nadya 15",
+            "isTransparent": true,
+            "imbuhanNama": [null, 2, 3, 4, 5]
+        }
+    },
+    "amel" : {
+        "id": 16,
+        "namaLengkap": "Amelia Sofhie Maharani",
+        "judul": "Rumah Panggung",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["Gunting", "Triplek", "Lem", "Penggaris", "Cutter", "Mika bening", "Kertas hitam", "Pulpen"],
+        "media": "Kardus dan Stik es krim",
+        "teknik": ["Menempel", "Memotong"],
+        "deskripsi": ["Rumah panggung adalah salah satu rumah tradisional Indonesia.Sesuai namanya, rumah ini berbentuk seperti panggung, atau dasar rumah ini tidak menempel pada tanah.Banyak provinsi di Indonesia, khususnya di wilayah yang curah hujannya tinggi yang memilih desain rumah panggung.", "Ciri Khas Rumah Panggung Ciri khas dari rumah ini, yaitu menjadi tempat berlindung dari banjir yang datang menghadang.Ketinggian rumah panggung juga bervariasi, tergantung dari lokasinya."],
+        "usernameIg": "amlsfhmhrn_",
+        "imgKarya": {
+            "namaFile": "Amel 16",
+            "isTransparent": true,
+            "imbuhanNama": [null, 2, 3, 4, 5]
+        }
+    },
+    "saegi" : {
+        "id": 17,
+        "namaLengkap": "Saegi",
+        "judul": "Miniatur Tugu Monas",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["Gunting", "Cutter", "Lem tembak", "Penggaris", "Pena", "Lilin", "Korek api"],
+        "media": "Stik es krim",
+        "teknik": ["Memotong", "Menempel"],
+        "deskripsi": ["Monumen Nasional atau yang disingkat dengan Monas atau Tugu Monas adalah monumen peringatan setinggi 132 meter yang terletak tepat di tengah Lapangan Medan Merdeka, Jakarta Pusat."],
+        "usernameIg": "saegiegi",
+        "imgKarya": {
+            "namaFile": "Saegi 17",
+            "isTransparent": true,
+            "imbuhanNama": [null]
+        }
+    },
+    "sitinuria" : {
+        "id": 18,
+        "namaLengkap": "Siti Nuria",
+        "judul": "Masjid",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["Gunting", "Cutter", "lem", "Spidol", "Penggaris", "Pencil"],
+        "media": "Stik es krim",
+        "teknik": ["Memotong", "Menempel"],
+        "deskripsi": ["Dimanapun berada, masjid adalah tempat beribadah umat Islam yang jumlahnya sangat banyak di Indonesia. Hal ini karena Indonesia merupakan salah satu negara yang mayoritas memiliki masyarakat yang menganut agama Islam."],
+        "usernameIg": "ryr08",
+        "imgKarya": {
+            "namaFile": "Siti Nuria 18",
+            "isTransparent": true,
+            "imbuhanNama": [null, 2, 3, 4, 5]
+        }
+    },
+    "dewi" : {
+        "id": 19,
+        "namaLengkap": "Dewidya Noor Juli Yanti",
+        "judul": "Lukisan Burung hantu",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["tissue", "cat", "air"],
+        "media": "kanvas",
+        "teknik": ["mozaik (menempelken)"],
+        "deskripsi": ["Lukisan ini menampilkan subjek seekor burung hantu yang tengah bertengger disebuah pohon yang tumbang"],
+        "usernameIg": "dwdynrjly",
+        "imgKarya": {
+            "namaFile": "Dewi 1",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "nazwa" : {
+        "id": 20,
+        "namaLengkap": "Nazwa Hayya Nurazizah",
+        "judul": "jam dinding",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["Gunting", "Cutter", "lem"],
+        "media": "Stik es krim",
+        "teknik": ["Memotong", "Menempel"],
+        "deskripsi": ["miniatur jam yang di buat dari stik es krim berbentuk segi enam yang beraturan"],
+        "usernameIg": "nzwahyya",
+        "imgKarya": {
+            "namaFile": "nazwa 2",
+            "isTransparent": true,
+            "imbuhanNama": [null]
+        }
+    },
+    "jacinda" : {
+        "id": 21,
+        "namaLengkap": "Jacinda Nur Fahimah",
+        "judul": "CINNAMONROLL",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["Kuas", "Cat", "Air"],
+        "media": "Kanvas",
+        "teknik": ["Melukis"],
+        "deskripsi": ["Wujudnya yang unik dan lucu membuat jatuh hati"],
+        "usernameIg": "jdcinda",
+        "imgKarya": {
+            "namaFile": "jacinda 3",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "bagus" : {
+        "id": 22,
+        "namaLengkap": "Bagus Sugiyono",
+        "judul": "Laci",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["Gunting", "Cutter", "lem"],
+        "media": "Stik es krim",
+        "teknik": ["Memotong", "Menempel"],
+        "deskripsi": ["bisa di jadikan tempat penyimpan aksesoris"],
+        "usernameIg": "bgzzyn",
+        "imgKarya": {
+            "namaFile": "bagus 4",
+            "isTransparent": true,
+            "imbuhanNama": [null, 2, 3]
+        }
+    },
+    "sitirahma" : {
+        "id": 23,
+        "namaLengkap": "Siti Rahma",
+        "judul": "Malam kota",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["Kuas", "Cat"],
+        "media": "Canvas",
+        "teknik": ["Melukis"],
+        "deskripsi": ["Seni rupa dua dimensi adalah karya seni rupa yang hanya terdiri dari dimensi panjang dan lebar, tanpa dimensi ruang. Ciri utama dari karya seni rupa dua dimensi yaitu hanya dapat dilihat dari satu arah pandang. Malam adalah periode waktu yang paling misterius yang dimana langit malam indah dipenuhi dengan bintang bintang dan juga bulan.Sedangkan kota adalah suatu tempat tinggal beberapa penduduk bahkan beribu-ribu penduduk."],
+        "usernameIg": "kyrhmx._",
+        "imgKarya": {
+            "namaFile": "siti rahma 5",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "jihan" : {
+        "id": 24,
+        "namaLengkap": "Jihan Fairuz Humaira",
+        "judul": "We Bare Bears",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["Kuas", "Cat"],
+        "media": "Canvas",
+        "teknik": ["Melukis"],
+        "deskripsi": ["Three very adorable bear brothers"],
+        "usernameIg": "jihdnfz_",
+        "imgKarya": {
+            "namaFile": "Jihan 6",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "nandita" : {
+        "id": 25,
+        "namaLengkap": "Nandita Oktavia Putri",
+        "judul": "pemandangan malam",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["cat", "air", "kuas"],
+        "media": "kanvas",
+        "teknik": ["melukis"],
+        "deskripsi": ["Kehidupan malam hari dialam sangatlah indah dan menakjubkan jika kita sering melihat ke atas langit saat kondisi disekeliling kita gelap tidak ada pencahayaan,maka bintang-bintang dilangit akan sangat terlihat jelas.", "Malam adalah periode waktu yg sangat misterius. Dunia orang tertidur dan kegelapan datang menggantikannya,saat nya untuk mimpi, mimpi, dan harapan.Dan pada saat inilah jutaan bintang berkedip dilangit,dan pemandangan malam di pegunungan dan laut sangat indah untuk dinikmati."],
+        "usernameIg": "nanditaa01_",
+        "imgKarya": {
+            "namaFile": "nandita 7",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "erda" : {
+        "id": 26,
+        "namaLengkap": "Try Erda Afifah",
+        "judul": "gunung fuji",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["cat", "air", "kuas"],
+        "media": "kanvas",
+        "teknik": ["melukis"],
+        "deskripsi": ["Seni lukis dua dimensi berfungsi sebagai pemuas bathin dan cara mengekspresikan jiwa sang seniman di dalam suatu penciptaannya, karena lebih mengutamakan nilai keindahannya, Selain itu,karya seni lukis dua dimensi bisa menjadi sarana hiburan untuk memenuhi kebutuhan emosional bagi seseorang.", "Orang yang melihat karya seni dua dimensi akan merasakan perasaan senang atau perasaan lainnya,semakin indah atau bagus lukisan tersebut, maka orang yang melihatnya akan semakin terhibur."],
+        "usernameIg": "eddaww_",
+        "imgKarya": {
+            "namaFile": "Erda 8",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "makna" : {
+        "id": 27,
+        "namaLengkap": "Makna Maulana Susanto",
+        "judul": "Pohon beringin",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["Kater", "lem"],
+        "media": "korek api kayu",
+        "teknik": ["memotong", "menempel"],
+        "deskripsi": ["Pohon beringin merupakan lambang dari sila ketiga dalam Pancasila yaitu Persatuan Indonesia. Simbol pohon beringin terletak di bagian kanan atas dari perisai. Pohon beringin melambangkan tempat tempat untuk berteduh atau berlindung."],
+        "usernameIg": "santohaay11",
+        "imgKarya": {
+            "namaFile": "makna 9",
+            "isTransparent": true,
+            "imbuhanNama": [null]
+        }
+    },
+    "ulma" : {
+        "id": 28,
+        "namaLengkap": "Jumrotul Ulma",
+        "judul": "Cafe",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["Biting", "Kardus", "lem"],
+        "media": "Stik es krim",
+        "teknik": ["Menempel"],
+        "deskripsi": ["karna zaman sekarang banyak tempat nongkrong salah satu nya cafe"],
+        "usernameIg": "xculmaa",
+        "imgKarya": {
+            "namaFile": "ulma 10",
+            "isTransparent": true,
+            "imbuhanNama": [null, 2, 3, 4]
+        }
+    },
+    "arif" : {
+        "id": 29,
+        "namaLengkap": "Muhammad Arif Maulana",
+        "judul": "miniatur rumah",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["gunting", "cutter", "lem stik"],
+        "media": "stik es krim",
+        "teknik": ["memotong", "menempel"],
+        "deskripsi": ["Miniatur rumah dari stik adalah salah satu kerajinan tangan yang banyak disukai baik sebagai mainan anak-anak, maupun koleksi orang dewasa yang memiliki nilai seni tinggi.", "Cara membuat rumah dari stik es krim populer dipelajari sebab ini adalah bentuk prakarya paling umum.", "Membuat rumah dari stik bahkan menjadi hobi produktif sebagian orang, yang mana berarti sebagian orang menghasilkan uang dari miniatur rumah ini."],
+        "usernameIg": "mhmmd_arief19",
+        "imgKarya": {
+            "namaFile": "Arif 11",
+            "isTransparent": true,
+            "imbuhanNama": [null, 2, 3, 4]
+        }
+    },
+    "deswita" : {
+        "id": 30,
+        "namaLengkap": "Deswita Khairunnisa",
+        "judul": "Bunga Daisy Putih",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["cat akrilik", "pensil", "kuas", "penghapus"],
+        "media": "kanvas",
+        "teknik": ["melukis"],
+        "deskripsi": ["bunga daisy berasal dari negeri Tiongkok dan memiliki nama lain yakni bunga aster. bunga daisy memiliki bermacam-macam warna salah satunya yaitu warna putih. bunga ini memiliki ciri khas yaitu bunga ini selalu mekar saat matahari terbit dan kuncup kembali saat matahari terbenam.", "bunga daisy berwarna putih ini melambangkan ketulusan hati. Warna putih selalu diidentikkan dengan ketulusan, tak terkecuali pada bunga daisy berwarna putih. Bunga daisy putih juga melambangkan kemurnian dan kepolosan dari seseorang.", "Bunga yang satu ini banyak digunakan sebagai ornamen dekorasi ataupun dibuat menjadi buket bunga disatukan dengan bunga jenis lain. alasan bunga ini banyak digunakan sebagai hiasan adalah keindahan warna yang dimilikinya.", "Bagi kamu yang ingin mengungkapkan rasa kasih sayang dan ketulusan pada orang terdekat, bunga daisy ini akan sangat tepat untuk kamu gunakan"],
+        "usernameIg": "dswtakhrnsaa",
+        "imgKarya": {
+            "namaFile": "Deswita 12",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "ikri" : {
+        "id": 31,
+        "namaLengkap": "Ikrimahtul Maula",
+        "judul": "lukisan gunung fuji.",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["kuas", "cat"],
+        "media": "kanvas",
+        "teknik": ["melukis"],
+        "deskripsi": ["Gunung Fuji adalah gunung berapi tertinggi kedua yang terletak di sebuah pulau di benua Asia,dan puncak tertinggi ketujuh dari sebuah pulau bumi."],
+        "usernameIg": "ikrimah_272",
+        "imgKarya": {
+            "namaFile": "ikri 13",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "rahmawati" : {
+        "id": 32,
+        "namaLengkap": "Rahmawati",
+        "judul": "bunga",
+        "tahun": "2023",
+        "jenis": "2d",
+        "alat": ["Kuas", "Cat", "Air", "Kertas"],
+        "media": "Kanvas",
+        "teknik": ["Melukis", "Kolase"],
+        "deskripsi": ["bunga adalah bagian tumbuhan yang akan menjadi buah, biasanya warna nya elok dan memiliki bau yang harum"],
+        "usernameIg": "rhmaaaaa_02",
+        "imgKarya": {
+            "namaFile": "Rahmawati 14",
+            "isTransparent": false,
+            "imbuhanNama": [null]
+        }
+    },
+    "euis" : {
+        "id": 33,
+        "namaLengkap": "Euis Widiyaningsih",
+        "judul": "lampu tidur",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["lampu tambler", "lem"],
+        "media": "Stik es krim",
+        "teknik": ["memotong", "Menempel"],
+        "deskripsi": ["memiliki keunikan tersendiri dan bisa dijadikan hiasan lampu tidur"],
+        "usernameIg": "euiswdy42",
+        "imgKarya": {
+            "namaFile": "Euis 15",
+            "isTransparent": true,
+            "imbuhanNama": [null]
+        }
+    },
+    "anisa" : {
+        "id": 34,
+        "namaLengkap": "Anisa Nur Syahwa",
+        "judul": "Rumah Diorama",
+        "tahun": "2023",
+        "jenis": "3d",
+        "alat": ["kardus", "cutter/gunting", "lem", "pensil", "penggaris", "triplek"],
+        "media": "stik es krim",
+        "teknik": ["memotong", "menempel"],
+        "deskripsi": ["Diorama adalah sajian pemandangan dalam ukuran kecil yang dilengkapi dengan patung dan perincian lingkungan seperti aslinya serta dipadukan dengan latar yang berwarna alami. Miniatur rumah diorama inipun cocok untuk pajangan, hadiah/kado,  dan bisa untuk kotak permen, aksesoris, dll"],
+        "usernameIg": "anisanrsyh",
+        "imgKarya": {
+            "namaFile": "Anisa 16",
+            "isTransparent": true,
+            "imbuhanNama": [null, 2, 3, 4, 5]
+        }
+    },
+    "" : {
+        "id": null,
+        "namaLengkap": "",
+        "judul": "",
+        "tahun": "",
+        "jenis": "",
+        "alat": [],
+        "media": "",
+        "teknik": [],
+        "deskripsi": [],
+        "usernameIg": "",
+        "imgKarya": {
+            "namaFile": "",
+            "isTransparent": null,
+            "imbuhanNama": []
+        }
+    }
+}

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/webutama/static/css/main.2cc923bf.css",
-    "main.js": "/webutama/static/js/main.012606d6.js",
-    "static/js/787.b3de2ccc.chunk.js": "/webutama/static/js/787.b3de2ccc.chunk.js",
-    "index.html": "/webutama/index.html",
-    "main.2cc923bf.css.map": "/webutama/static/css/main.2cc923bf.css.map",
-    "main.012606d6.js.map": "/webutama/static/js/main.012606d6.js.map",
-    "787.b3de2ccc.chunk.js.map": "/webutama/static/js/787.b3de2ccc.chunk.js.map"
+    "main.css": "/static/css/main.99dcf67c.css",
+    "main.js": "/static/js/main.3b401132.js",
+    "static/js/787.b3de2ccc.chunk.js": "/static/js/787.b3de2ccc.chunk.js",
+    "index.html": "/index.html",
+    "main.99dcf67c.css.map": "/static/css/main.99dcf67c.css.map",
+    "main.3b401132.js.map": "/static/js/main.3b401132.js.map",
+    "787.b3de2ccc.chunk.js.map": "/static/js/787.b3de2ccc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cc923bf.css",
-    "static/js/main.012606d6.js"
+    "static/css/main.99dcf67c.css",
+    "static/js/main.3b401132.js"
   ]
 }
